@@ -12,7 +12,20 @@ export const About = () => {
       justifyContent: 'center',
       alignItems: 'center'
     }}>
-      <h1 style={{color: "white"}}>About page in development</h1>
+      <div style={{
+          width: '80%',
+          height: '50%',
+          backgroundColor: 'white',
+          border: '1px solid black',
+
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          wordBreak: 'break-word',
+      }}>
+    
+      <h1 style={{color: "black"}}>About in development</h1>
+      </div>
     </div>
   )
 }
