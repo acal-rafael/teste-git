@@ -7,7 +7,7 @@ export const Home = () => {
       height: '100vh',
       margin: '0 auto',
       border: '1px solid black',
-      backgroundColor: 'white',
+      backgroundColor: 'red',
 
       display: 'flex',
       justifyContent: 'center',
@@ -16,7 +16,7 @@ export const Home = () => {
       <h1 style={{
         width: '200px',
         height: '100px',
-        color: "blue",
+        color: "white",
 
         border: '1px solid black',
       }}>Home</h1>
