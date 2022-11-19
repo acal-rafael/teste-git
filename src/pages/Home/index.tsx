@@ -13,7 +13,7 @@ export const Home = () => {
       justifyContent: 'center',
       alignItems: 'center',
     }}>
-      <h1 style={{
+      <div style={{
         width: '200px',
         height: '100px',
         color: "blue",
