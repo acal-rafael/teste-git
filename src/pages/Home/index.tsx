@@ -7,7 +7,7 @@ export const Home = () => {
       height: '100vh',
       margin: '0 auto',
       border: '1px solid black',
-      backgroundColor: 'red',
+      backgroundColor: 'white',
 
       display: 'flex',
       justifyContent: 'center',
