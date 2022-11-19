@@ -30,7 +30,7 @@ export const Home = () => {
           height: '100px',
           color: "white",
 
-          border: '1px solid black',
+          border: '1px solid white',
         }}>Home</h1>
       </div>
     </div>
