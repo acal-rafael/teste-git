@@ -24,7 +24,8 @@ export const About = () => {
           wordBreak: 'break-word',
       }}>
     
-      <h1 style={{color: "black"}}>About in development</h1>
+      <h1 style={{color: "black"}}>About in development commit
+      </h1>
       </div>
     </div>
   )
