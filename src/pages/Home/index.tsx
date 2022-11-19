@@ -13,13 +13,26 @@ export const Home = () => {
       justifyContent: 'center',
       alignItems: 'center',
     }}>
-      <h1 style={{
+      <div style={{
         width: '200px',
         height: '100px',
-        color: "white",
+        color: "blue",
 
         border: '1px solid black',
-      }}>Home</h1>
+        backgroundColor: 'brown',
+
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+      }}>
+        <h1 style={{
+          width: '200px',
+          height: '100px',
+          color: "white",
+
+          border: '1px solid black',
+        }}>Home</h1>
+      </div>
     </div>
   )
 }
